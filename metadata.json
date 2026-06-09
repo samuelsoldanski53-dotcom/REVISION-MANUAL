@@ -1,0 +1,6 @@
+{
+  "name": "AIRLAW REVISION MANUAL",
+  "description": "An interactive revision companion for ICAO Annex 2 (Rules of the Air) and ICAO Annex 1 (Personnel Licensing), featuring comprehensive study guides, rules lookup, customizable flashcards, and practice quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
